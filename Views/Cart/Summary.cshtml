@@ -1,0 +1,115 @@
+﻿@model List<ShoppingCart>
+
+@{
+    ViewData["Title"] = "Order Summary";
+}
+<form asp-controller="Cart" asp-action="Summary" method="post">
+    <div class="container">
+        <div class="card mt-5">
+            <div class="card-header bg-secondary bg-gradient text-light ml-0 py-4">
+                <div class="row px-4">
+                    <div class="col-6">
+                        <h5 class="pt-2 text-white">Order Summary</h5>
+                    </div>
+                    <div class="col-6 text-end">
+                        <a href="@Url.Action("Index", "Cart")" class="btn btn-outline-danger btn-sm">Back to Cart</a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body my-4">
+                <div class="container rounded p-2">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 pb-4">
+                            <h4 class="d-flex justify-content-between align-items-center mb-3">
+                                <span class="text-info">Shipping Details:</span>
+                            </h4>
+                            <!-- Shipping details form -->
+                            <div class="row my-1">
+                                <div class="col-3">
+                                    <label for="Name">Name</label>
+                                </div>
+                                <div class="col-9">
+                                    <input class="form-control" id="Name" name="OrderHeader.Name" required />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">
+                                    <label for="PhoneNumber">Phone</label>
+                                </div>
+                                <div class="col-9">
+                                    <input class="form-control" id="PhoneNumber" name="OrderHeader.PhoneNumber" required />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">
+                                    <label for="StreetAdress">Street Address</label>
+                                </div>
+                                <div class="col-9">
+                                    <input class="form-control" id="StreetAdress" name="OrderHeader.StreetAdress" required />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">
+                                    <label for="City">City</label>
+                                </div>
+                                <div class="col-9">
+                                    <input class="form-control" id="City" name="OrderHeader.City" required />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">
+                                    <label for="State">State</label>
+                                </div>
+                                <div class="col-9">
+                                    <input class="form-control" id="State" name="OrderHeader.State" required />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">
+                                    <label for="PostalCode">Postal Code</label>
+                                </div>
+                                <div class="col-9">
+                                    <input class="form-control" id="PostalCode" name="OrderHeader.PostalCode" required />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-5 offset-lg-1">
+                            <h4 class="d-flex justify-content-between align-items-center mb-3">
+                                <span class="text-info">Order Summary:</span>
+                            </h4>
+                            <ul class="list-group mb-3">
+                                @foreach (var item in Model)
+                                {
+                                    <li class="list-group-item d-flex justify-content-between">
+                                        <div>
+                                            <h6 class="my-0">@item.Product.Title</h6>
+                                            <small class="text-muted">Quantity: @item.Count</small>
+                                        </div>
+                                        <span class="text-muted">@String.Format("{0:C}", item.Product.Price * item.Count)</span>
+                                    </li>
+                                }
+                                <li class="list-group-item d-flex justify-content-between bg-light">
+                                    <small class="text-info">Total (USD)</small>
+                                    <strong class="text-info">$@ViewBag.TotalSum.ToString("0.00")</strong>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <div class="row">
+                    <div class="col-12 col-md-8 pt-2">
+                        <p style="color:maroon; font-size:14px;">
+                            Estimate Arrival Date: @DateTime.Now.AddDays(7).ToShortDateString() -
+                            @DateTime.Now.AddDays(14).ToShortDateString()
+                        </p>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <button type="submit" value="Place Order" class="btn btn-primary form-control">Place Order</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

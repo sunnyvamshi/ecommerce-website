@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlukyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlukyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\05bbef9c-393d-4a4a-81e4-c7fd64168c53.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\05bbef9c-393d-4a4a-81e4-c7fd64168c53.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\068cb988-9cc3-4602-80f7-e61d4c176496.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\068cb988-9cc3-4602-80f7-e61d4c176496.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\069572c0-90d8-4b71-8907-9bf3595b5f01.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\069572c0-90d8-4b71-8907-9bf3595b5f01.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\0e293b79-d619-4099-842c-a26cd8e63e10.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\0e293b79-d619-4099-842c-a26cd8e63e10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\1aaba7e4-732b-4a14-a17f-671e20295732.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\1aaba7e4-732b-4a14-a17f-671e20295732.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\24a82e3a-44c2-43af-bbab-dd63a0a84dc6",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\2516c0a7-64b1-4a25-85fb-c2c9518556ad.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\2516c0a7-64b1-4a25-85fb-c2c9518556ad.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\2d8a6dd1-bc66-43a4-8a70-eb12ab9492fb",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\325572e6-0b44-4cdd-9b23-d1809f6e0c67.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\325572e6-0b44-4cdd-9b23-d1809f6e0c67.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\3467eeab-6934-4f2d-9403-a93e6d92baf7.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\3467eeab-6934-4f2d-9403-a93e6d92baf7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\3752dd97-8036-4eec-ac1e-46ae2d44be4c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\3752dd97-8036-4eec-ac1e-46ae2d44be4c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\38225049-bd15-4fbf-8d63-fc50cbd7a755.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\38225049-bd15-4fbf-8d63-fc50cbd7a755.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\3935c9b5-f0e0-40ef-afb0-05a6d557f8ff",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\411ceece-2c60-4cd1-a030-893dafadc9f1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\411ceece-2c60-4cd1-a030-893dafadc9f1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\416f680a-eb0f-4614-9691-df4b130bfc8f.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\416f680a-eb0f-4614-9691-df4b130bfc8f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\41701e91-3bf0-421c-8635-43a58e48df08",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\46273a34-ef65-4917-9803-160bf7a67ee6.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\46273a34-ef65-4917-9803-160bf7a67ee6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\5375d435-8957-49f5-aca0-f8987ce75a82.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\5375d435-8957-49f5-aca0-f8987ce75a82.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\555d70e5-6756-4715-b6cd-7b52ac3e57e5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\555d70e5-6756-4715-b6cd-7b52ac3e57e5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\56a7dfd3-62d5-45ce-b686-c00d72c1b360.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\56a7dfd3-62d5-45ce-b686-c00d72c1b360.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\63e3610c-f2d8-457c-84ab-f5d655e38711.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\63e3610c-f2d8-457c-84ab-f5d655e38711.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\658ad748-a109-4593-987e-691ed94a6f0c",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\698ba5f1-b843-4f22-b851-742e0a678ff8.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\698ba5f1-b843-4f22-b851-742e0a678ff8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\6ae82410-8c30-42af-9bed-c78a89104e07",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\75b92a71-4990-49b8-b516-9e0606b19d4c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\75b92a71-4990-49b8-b516-9e0606b19d4c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\7c1a9315-a623-4178-a7f1-f3c2c6d4c05b.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\7c1a9315-a623-4178-a7f1-f3c2c6d4c05b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\8a10a9f4-f8a4-48ae-8ca9-ccebfcde8af1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\8a10a9f4-f8a4-48ae-8ca9-ccebfcde8af1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\9ce5c62b-9dd9-449a-8c03-4b43e83577dc.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\9ce5c62b-9dd9-449a-8c03-4b43e83577dc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\a2cdc22f-1572-4c3c-bb01-1f852a075324",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\af1be792-e0e7-48a9-ab24-9b32e4efde33",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\arrangement-black-friday-shopping-carts-with-copy-space_23-2148667047.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\arrangement-black-friday-shopping-carts-with-copy-space_23-2148667047.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\b09903c1-0221-409f-9902-dc7297c6c947.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\b09903c1-0221-409f-9902-dc7297c6c947.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\b1c9bb2b-e1ca-461c-b70d-8d32f1f6bca0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\b1c9bb2b-e1ca-461c-b70d-8d32f1f6bca0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\bdf01b4c-f169-4503-b347-5b786fad6255.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\bdf01b4c-f169-4503-b347-5b786fad6255.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\c2b67dbf-ffb5-4775-91c4-5d60cf06e551",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\c53930de-49fd-4be8-b27e-89820a9f459b.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\c53930de-49fd-4be8-b27e-89820a9f459b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\c5acede5-db08-4605-ac6b-f613bd994331",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\d96036b0-7a22-4108-8d3d-7ae11fb6526c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d96036b0-7a22-4108-8d3d-7ae11fb6526c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\da686d19-89b1-4ebd-9301-fd1c7fd2ae97",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\df2c3061-d9c9-4394-9571-f4ffb9b5ef1e.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\df2c3061-d9c9-4394-9571-f4ffb9b5ef1e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\e789a3c9-a542-4ea5-8bb8-5c5b2a10810d",
+      "PackagePath": "staticwebassets\\Images\\Product"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\ec9dc40b-18f1-453d-8e9c-c5eb5243dd46.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\ec9dc40b-18f1-453d-8e9c-c5eb5243dd46.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\ef68b3c0-cf2e-4202-b0e0-9609c5063087.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\ef68b3c0-cf2e-4202-b0e0-9609c5063087.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\f0048574-a3a6-433f-a0fb-b33f0fc9a7ad.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\f0048574-a3a6-433f-a0fb-b33f0fc9a7ad.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\fdaa1bf7-991f-4c18-9e7e-8891917f0edf.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\fdaa1bf7-991f-4c18-9e7e-8891917f0edf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\fdeb0845-25e4-48fc-ba72-8403aa83fc83.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\fdeb0845-25e4-48fc-ba72-8403aa83fc83.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\order-confirmation-email.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\order-confirmation-email.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\Images\\Product\\rf_sucess_v3.gif",
+      "PackagePath": "staticwebassets\\Images\\Product\\rf_sucess_v3.gif"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\js\\Company.js",
+      "PackagePath": "staticwebassets\\js\\Company.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\js\\Order.js",
+      "PackagePath": "staticwebassets\\js\\Order.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\js\\User.js",
+      "PackagePath": "staticwebassets\\js\\User.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\BlukyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlukyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlukyWeb.props",
+      "PackagePath": "build\\BlukyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlukyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BlukyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlukyWeb.props",
+      "PackagePath": "buildTransitive\\BlukyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
